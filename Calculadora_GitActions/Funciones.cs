@@ -2,9 +2,9 @@
 {
     public class Funciones
     {
-        public int Sumar(int a, int b)
+        public int Sumar(int a, int b  )
         {
-            return a + b ;
+            return a + b +1 ;
         }
 
         public int Restar(int a, int b)
